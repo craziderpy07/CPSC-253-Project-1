@@ -1,6 +1,5 @@
 from tkinter import *
 from tkinter import filedialog    
-from tkinter import ttk
 import os
 
 def key():
