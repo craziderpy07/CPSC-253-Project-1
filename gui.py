@@ -17,7 +17,7 @@ def step():
 
 root = Tk()
 root.title("CPSC 253 Project 1")
-root.iconbitmap(r"C:\Users\zz-teto\CPSC-253-Project-1\kirby.ico")
+root.iconbitmap(r"kirby-icon.ico")
 root.geometry("500x250")
 root.resizable(False, False)
 
