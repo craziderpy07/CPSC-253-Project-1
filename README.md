@@ -2,4 +2,4 @@
 
 # Teresa To tto46@csu.fullerton.edu
 
-# Run python main.py in cmd
+# Run python main.py in cmd in the folder directory
